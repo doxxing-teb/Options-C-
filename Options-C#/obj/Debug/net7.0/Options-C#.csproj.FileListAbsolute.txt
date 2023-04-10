@@ -1,0 +1,15 @@
+/home/kali/Desktop/Options-C#/bin/Debug/net7.0/Options-C#
+/home/kali/Desktop/Options-C#/bin/Debug/net7.0/Options-C#.deps.json
+/home/kali/Desktop/Options-C#/bin/Debug/net7.0/Options-C#.runtimeconfig.json
+/home/kali/Desktop/Options-C#/bin/Debug/net7.0/Options-C#.dll
+/home/kali/Desktop/Options-C#/bin/Debug/net7.0/Options-C#.pdb
+/home/kali/Desktop/Options-C#/obj/Debug/net7.0/Options-C#.csproj.AssemblyReference.cache
+/home/kali/Desktop/Options-C#/obj/Debug/net7.0/Options-C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Desktop/Options-C#/obj/Debug/net7.0/Options-C#.AssemblyInfoInputs.cache
+/home/kali/Desktop/Options-C#/obj/Debug/net7.0/Options-C#.AssemblyInfo.cs
+/home/kali/Desktop/Options-C#/obj/Debug/net7.0/Options-C#.csproj.CoreCompileInputs.cache
+/home/kali/Desktop/Options-C#/obj/Debug/net7.0/Options-C#.dll
+/home/kali/Desktop/Options-C#/obj/Debug/net7.0/refint/Options-C#.dll
+/home/kali/Desktop/Options-C#/obj/Debug/net7.0/Options-C#.pdb
+/home/kali/Desktop/Options-C#/obj/Debug/net7.0/Options-C#.genruntimeconfig.cache
+/home/kali/Desktop/Options-C#/obj/Debug/net7.0/ref/Options-C#.dll
